@@ -1,0 +1,2 @@
+this is good time to learn git.
+this is bad time to learn git.

@@ -6,7 +6,9 @@ some important cmd in git.
 02. git status 
     : to know our current status like branch and changes 
     
-03. git add <-file name->
+03. git add <-file name-> or '.'-> it add all chenged file.
     : add new or changed file in your working directy to the git staging area.
 04. git commit -m <- some message or porpose ->
     : is is the record of chenges 
+05 git push origin main
+    : upload our local repo to remote repo server on github.
