@@ -1,2 +1,12 @@
-hello this is world of happiness.
-it is also word of sadness.
+some important cmd in git.
+
+01. git clone <-link of project-> 
+    : this link clone the project to our pc.
+
+02. git status 
+    : to know our current status like branch and changes 
+    
+03. git add <-file name->
+    : add new or changed file in your working directy to the git staging area.
+04. git commit -m <- some message or porpose ->
+    : is is the record of chenges 
